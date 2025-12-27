@@ -1,2 +1,2 @@
 # Basic_Portfolio
-<br> A Basic portfolio using HTML & basic CSS.
+<br> It's a Basic portfolio using HTML & basic CSS.
